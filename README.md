@@ -6,11 +6,12 @@
 <a href="https://discordapp.com/users/359794704847601674"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Kiyomi#9081" ></a>
 
 
+## ❌ Description
+A simple python/lua script to occuassinaly check CFX.re's Status [https://status.cfx.re/api]
+
 ## 🔨 Languages Used
 ![PY](https://img.shields.io/badge/Python-black?style=flat-square&logo=python)
 ![LUA](https://custom-icon-badges.herokuapp.com/badge/Lua-black.svg?logo=lua&logoColor=blue)
-
-
 
 ## ❌ Requirments
 **Python 3.9** - *https://www.python.org/downloads/*
